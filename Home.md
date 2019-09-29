@@ -1,5 +1,6 @@
 # Home (Blaze U Remix)
-```html
+
+```markdown
 I'm Looking for a place I can come my home, my home, wow~
 我在寻找一个可以称之为家的地方
 
@@ -35,4 +36,5 @@ Even if the sky is falling down,falling down, I would search for you
 
 Even if the sky is falling down,falling down, I won’t give up on you
 就算天空坠落，一切灰飞烟灭，我也不会抛下你
-```html
+
+```
