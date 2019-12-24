@@ -1,9 +1,6 @@
 # In This Place
 
 ```markdown
-作曲 : Alan Menken
-
-作词 : Tom MacDougall/Phil Johnston
 
 What can it be that calls me to this place today?
 那将我召唤到这地方的一切究竟是什么呢
