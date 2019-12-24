@@ -1,6 +1,7 @@
 # Home (Blaze U Remix)
 
 ```markdown
+
 I'm Looking for a place I can come my home, my home, wow~
 我在寻找一个可以称之为家的地方
 
